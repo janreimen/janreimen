@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janreimen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Nature, Computers
+- 🌱 I’m currently learning a lot of things in my professional life
+- 💞️ I’m looking to collaborate on Domotic and Raspberry
 - 📫 How to reach me : jaguar alpha november dot romeo echo india mike echo november (at) papa tango dot lima unicorn
 
 <!---
